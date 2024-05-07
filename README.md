@@ -42,9 +42,10 @@ From the above characteristic table, we can directly write the next state equati
 ![Exp5 tfp RTL diagram](https://github.com/rakshithaprakashkumar11/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150994181/54bc9fbe-75ff-446d-b723-e1cf75b9efde)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+![328145480-81a5317c-3d2b-4a75-92cf-560df006c208](https://github.com/jabezs2005/T-FLIPFLOP-POSEDGE/assets/147473463/e515e7b8-bb12-4377-8191-d1cb004297a0)
 
 
-![Exp3 t wave](https://github.com/rakshithaprakashkumar11/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150994181/17ff7051-6ef9-47a0-9072-747b972229ba)
+
 
 
 **RESULTS**
